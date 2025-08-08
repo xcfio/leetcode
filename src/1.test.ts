@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest"
 import { twoSum } from "../src/1"
 
-describe("twoSum", () => {
+describe("1. Two Sum", () => {
     it("should return [0, 1] when nums = [2,7,11,15] and target = 9", () => {
         expect(twoSum([2, 7, 11, 15], 9)).toEqual([0, 1])
     })

@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest"
 import { removeElement } from "./27"
 
-describe("removeElement", () => {
+describe("27. Remove Element", () => {
     it("example 1: removes 3s", () => {
         const nums = [3, 2, 2, 3]
         const val = 3

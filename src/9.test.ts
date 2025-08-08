@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest"
 import { isPalindrome } from "./9"
 
-describe("isPalindrome", () => {
+describe("9. Palindrome Number", () => {
     it("should return true for 121", () => {
         expect(isPalindrome(121)).toBe(true)
     })

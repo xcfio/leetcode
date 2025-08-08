@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest"
 import { removeDuplicates } from "./26"
 
-describe("removeDuplicates", () => {
+describe("26. Remove Duplicates from Sorted Array", () => {
     it("Example 1", () => {
         const nums = [1, 1, 2]
         const k = removeDuplicates(nums)

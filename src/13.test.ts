@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest"
 import { romanToInt } from "./13"
 
-describe("romanToInt", () => {
+describe("13. Roman to Integer", () => {
     it('should return 3 for "III"', () => {
         expect(romanToInt("III")).toBe(3)
     })
