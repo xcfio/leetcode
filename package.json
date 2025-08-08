@@ -8,7 +8,7 @@
     "scripts": {
         "fmt": "prettier --config=.prettierrc --write ./",
         "fmt:test": "prettier --config=.prettierrc --check ./",
-        "test": "tsc --noEmit && vitest run",
+        "test": "tsc --noEmit && vitest run --no-color",
         "dev": "vitest dev"
     },
     "dependencies": {
