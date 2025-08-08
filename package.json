@@ -1,0 +1,20 @@
+{
+    "name": "leetcode",
+    "version": "0.0.1",
+    "main": "index.js",
+    "type": "commonjs",
+    "author": "xcfio",
+    "license": "MIT",
+    "scripts": {
+        "fmt": "prettier --config=.prettierrc --write ./",
+        "fmt:test": "prettier --config=.prettierrc --check ./",
+        "test": "tsc --noEmit && vitest run",
+        "dev": "vitest dev"
+    },
+    "dependencies": {
+        "vitest": "^3.2.4"
+    },
+    "devDependencies": {
+        "@types/node": "^24.2.0"
+    }
+}
