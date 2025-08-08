@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest"
-import { isPalindrome } from "./9"
+import { isPalindrome } from "./0009"
 
 describe("9. Palindrome Number", () => {
     it("should return true for 121", () => {

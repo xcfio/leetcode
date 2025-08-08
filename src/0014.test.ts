@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest"
-import { longestCommonPrefix } from "./14"
+import { longestCommonPrefix } from "./0014"
 
 describe("14. Longest Common Prefix", () => {
     it("Example 1: returns 'fl' for ['flower','flow','flight']", () => {

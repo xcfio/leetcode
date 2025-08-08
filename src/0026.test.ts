@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest"
-import { removeDuplicates } from "./26"
+import { removeDuplicates } from "./0026"
 
 describe("26. Remove Duplicates from Sorted Array", () => {
     it("Example 1", () => {

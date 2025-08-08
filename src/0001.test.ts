@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest"
-import { twoSum } from "../src/1"
+import { twoSum } from "./0001"
 
 describe("1. Two Sum", () => {
     it("should return [0, 1] when nums = [2,7,11,15] and target = 9", () => {
