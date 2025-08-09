@@ -10,8 +10,8 @@ Visit my LeetCode profile: [leetcode.com/u/xcfio/](https://leetcode.com/u/xcfio/
 
 ### Prerequisites
 
--   Node.js (v22 or higher)
--   npm, yarn or pnpm
+- Node.js (v22 or higher)
+- npm, yarn or pnpm
 
 ### Installation
 
@@ -57,23 +57,23 @@ leetcode/
 
 This repository uses [Vitest](https://vitest.dev/) for testing. Each solution includes comprehensive test cases covering:
 
--   Edge cases
--   Example test cases from LeetCode
--   Performance considerations
--   Input validation
+- Edge cases
+- Example test cases from LeetCode
+- Performance considerations
+- Input validation
 
 ### File Naming Convention
 
 Problems are organized by their LeetCode problem number:
 
--   `{number}.ts` - Solution implementation
--   `{number}.test.ts` - Test cases for the solution
+- `{number}.ts` - Solution implementation
+- `{number}.test.ts` - Test cases for the solution
 
 For example:
 
--   `1.ts` & `1.test.ts` - Two Sum problem
--   `26.ts` & `26.test.ts` - Remove Duplicates from Sorted Array
--   `2460.ts` & `2460.test.ts` - Apply Operations to an Array
+- `1.ts` & `1.test.ts` - Two Sum problem
+- `26.ts` & `26.test.ts` - Remove Duplicates from Sorted Array
+- `2460.ts` & `2460.test.ts` - Apply Operations to an Array
 
 ### Running Tests
 
@@ -120,30 +120,30 @@ Solutions are organized by difficulty and topic:
 
 ### By Difficulty
 
--   **Easy**: Fundamental problems, basic algorithms
--   **Medium**: Intermediate challenges, common interview questions
--   **Hard**: Advanced algorithms, complex data structures
+- **Easy**: Fundamental problems, basic algorithms
+- **Medium**: Intermediate challenges, common interview questions
+- **Hard**: Advanced algorithms, complex data structures
 
 ### By Topic
 
--   Arrays & Strings
--   Linked Lists
--   Trees & Graphs
--   Dynamic Programming
--   Sorting & Searching
--   Hash Tables
--   Two Pointers
--   Sliding Window
--   Backtracking
--   And more...
+- Arrays & Strings
+- Linked Lists
+- Trees & Graphs
+- Dynamic Programming
+- Sorting & Searching
+- Hash Tables
+- Two Pointers
+- Sliding Window
+- Backtracking
+- And more...
 
 ## 🔧 Code Quality
 
 This repository maintains high code quality standards:
 
--   **TypeScript**: Type safety and better IDE support
--   **Prettier**: Consistent code formatting
--   **Vitest**: Comprehensive testing framework
+- **TypeScript**: Type safety and better IDE support
+- **Prettier**: Consistent code formatting
+- **Vitest**: Comprehensive testing framework
 
 ## 🤝 Contributing
 
@@ -161,9 +161,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Acknowledgments
 
--   LeetCode for providing an excellent platform for coding practice
--   The programming community for sharing knowledge and solutions
--   Open source testing and development tools that make this possible
+- LeetCode for providing an excellent platform for coding practice
+- The programming community for sharing knowledge and solutions
+- Open source testing and development tools that make this possible
 
 ---
 
