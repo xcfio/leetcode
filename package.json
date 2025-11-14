@@ -9,12 +9,15 @@
         "fmt": "prettier --config=.prettierrc --write ./",
         "fmt:test": "prettier --config=.prettierrc --check ./",
         "test": "tsc --noEmit && vitest run --no-color",
-        "dev": "vitest dev"
+        "dev": "vitest dev",
+        "dev:ui": "vitest --ui"
     },
     "dependencies": {
-        "vitest": "^3.2.4"
+        "vitest": "^4.x.x"
     },
     "devDependencies": {
-        "@types/node": "^24.2.0"
+        "@vitest/ui": "^4.x.x",
+        "@types/node": "^24.x.x"
     }
 }
+
